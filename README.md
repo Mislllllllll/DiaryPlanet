@@ -13,9 +13,7 @@ clubstar-detail.html
 clubstar-list.html
 clubstar-video.html
 forgetpwd.html
-html¡–±Ì.txt
 index.html
-liebiao.bat
 login.html
 register.html
 usercenter-fav-club.html
